@@ -3,5 +3,5 @@ We aim to build a device which can sanitise currency notes by projecting Ultra V
 UV-C Light of specifically 254 nanometre when concentrated on paper notes for a period of 10 minutes have shown to deactivate the virus. 
 Reason to choose UV-C? Due to its shorter wavelength and tremendous energy capacity it makes an optimal disinfectant. “Previously, UV-C had also been effective in killing the H1N1 Influenza by causing lesions in its DNA and RNA structure, prohibiting it to replicate, thus effectively killing it”. 
 
-## Circuit Diagram 
+## Circuit Diagram for Arduino 
 ![image used](https://github.com/souvik0306/MI/blob/master/Fritzing_Circuit.PNG?raw=true)
