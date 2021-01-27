@@ -228,7 +228,7 @@ void loop()
     delay(3000);
     lcd.clear();
     t1=0;
-  }6
+  }
   else {
     
     digitalWrite(in1, LOW);
